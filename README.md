@@ -1,4 +1,4 @@
-![Alt text](profile.jpg)
+![Alt text](profile.png)
 
 A Researcher in Quantum Technologies
 ------------------------------------
