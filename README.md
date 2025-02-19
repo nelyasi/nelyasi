@@ -1,6 +1,6 @@
 ![Alt text](profile.png)
 
-About Me
+Seyed Navid Elyasi
 ------------------------------------
 
 I began my coding journey in childhood, programming microcontrollers in C/C++ to create projects like line-following robots. In university, I expanded into Python, using it to tackle complex physics problems. During my MSc, I specialized further, focusing on quantum technologies with Python, working extensively with libraries such as Qiskit, QuTiP, and Strawberry Fields.
