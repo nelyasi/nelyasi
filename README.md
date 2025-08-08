@@ -5,11 +5,11 @@ Seyed Navid Elyasi
 
 I began my coding journey in childhood, programming microcontrollers in C/C++ to create projects like line-following robots. In university, I expanded into Python, using it to tackle complex physics problems. During my MSc, I specialized further, focusing on quantum technologies with Python, working extensively with libraries such as Qiskit, QuTiP, and Strawberry Fields.
 
-* 🌍  I'm based in Sanandaj, Kurdistan, Iran
-* ✉️  You can contact me at [n.elyasi@@uok.ac.ir](mailto:n.elyasi@@uok.ac.ir)
-* 🚀  I'm currently working on [BatSim - Experimental simulation of daemonic work extraction in open quantum batteries on a digital quantum computer](http://arxiv.org/abs/2410.16567)
-* 🧠  I'm learning Machine Learning
-* 🤝  I'm open to collaborating on Quantum Technologies Based Proposals
+* 🌍  I am based in Gothenburg, Sweden
+* ✉️  You can contact me at [n.elyasi@@uok.ac.ir](mailto:elyasi@chalmers.se)
+* 🚀  I am currently working on Quantum Data Centers and Distributed Quantum Computing. 
+* 🧠  I am learning Machine Learning
+* 🤝  I am open to collaborating on Quantum Technologies Based Proposals
 
 ### Skills
 
