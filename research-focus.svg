@@ -1,0 +1,111 @@
+```svg
+<svg width="850" height="180" viewBox="0 0 850 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00C6FF;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#7F00FF;stop-opacity:1" />
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="850" height="180" rx="22" fill="#0D1117"/>
+
+  <!-- Title -->
+  <text x="425" y="38"
+        text-anchor="middle"
+        fill="#FFFFFF"
+        font-size="20"
+        font-family="Arial">
+    Quantum Data Centers · Distributed Quantum Computing · Quantum Networks
+  </text>
+
+  <!-- Left Node -->
+  <circle cx="160" cy="100" r="13"
+          fill="url(#grad)"
+          filter="url(#glow)">
+    <animate attributeName="r"
+             values="11;16;11"
+             dur="2s"
+             repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Middle Node -->
+  <circle cx="425" cy="100" r="13"
+          fill="url(#grad)"
+          filter="url(#glow)">
+    <animate attributeName="r"
+             values="16;11;16"
+             dur="2s"
+             repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Right Node -->
+  <circle cx="690" cy="100" r="13"
+          fill="url(#grad)"
+          filter="url(#glow)">
+    <animate attributeName="r"
+             values="11;16;11"
+             dur="2s"
+             repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Connection Left -->
+  <line x1="173" y1="100"
+        x2="412" y2="100"
+        stroke="url(#grad)"
+        stroke-width="3"
+        stroke-dasharray="8 8">
+    <animate attributeName="stroke-dashoffset"
+             values="0;-32"
+             dur="1.4s"
+             repeatCount="indefinite"/>
+  </line>
+
+  <!-- Connection Right -->
+  <line x1="438" y1="100"
+        x2="677" y2="100"
+        stroke="url(#grad)"
+        stroke-width="3"
+        stroke-dasharray="8 8">
+    <animate attributeName="stroke-dashoffset"
+             values="0;-32"
+             dur="1.4s"
+             repeatCount="indefinite"/>
+  </line>
+
+  <!-- Labels -->
+  <text x="160" y="145"
+        text-anchor="middle"
+        fill="#C9D1D9"
+        font-size="14"
+        font-family="Arial">
+    Quantum Nodes
+  </text>
+
+  <text x="425" y="145"
+        text-anchor="middle"
+        fill="#C9D1D9"
+        font-size="14"
+        font-family="Arial">
+    Optical Interconnects
+  </text>
+
+  <text x="690" y="145"
+        text-anchor="middle"
+        fill="#C9D1D9"
+        font-size="14"
+        font-family="Arial">
+    Distributed Algorithms
+  </text>
+
+</svg>
+```
