@@ -111,22 +111,21 @@ My current research focuses on Quantum Data Centers and Distributed Quantum Comp
 
 ---
 
+
 ## GitHub Statistics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nelyasi&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelyasi&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nelyasi&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelyasi&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
 
 ## Featured Repository
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/nelyasi/OQB-implementation---Batsim">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nelyasi&repo=OQB-implementation---Batsim&theme=dark&hide_border=true" alt="OQB implementation Batsim" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nelyasi&repo=OQB-implementation---Batsim&theme=github_dark&hide_border=true" />
   </a>
 </p>
