@@ -114,63 +114,11 @@ My current research focuses on Quantum Data Centers and Distributed Quantum Comp
 </p>
 
 ---
+
 ## Research Focus
 
 <p align="center">
-  <svg width="850" height="180" viewBox="0 0 850 180" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#00c6ff"/>
-        <stop offset="100%" stop-color="#7f00ff"/>
-      </linearGradient>
-
-      <filter id="glow">
-        <feGaussianBlur stdDeviation="3.5" result="coloredBlur"/>
-        <feMerge>
-          <feMergeNode in="coloredBlur"/>
-          <feMergeNode in="SourceGraphic"/>
-        </feMerge>
-      </filter>
-    </defs>
-
-    <rect width="850" height="180" rx="20" fill="#0d1117"/>
-
-    <text x="425" y="38" text-anchor="middle" fill="#ffffff" font-size="18" font-family="Arial">
-      Quantum Data Centers · Distributed Quantum Computing · Quantum Networks
-    </text>
-
-    <circle cx="160" cy="105" r="13" fill="url(#grad)" filter="url(#glow)">
-      <animate attributeName="r" values="10;16;10" dur="2.2s" repeatCount="indefinite"/>
-    </circle>
-
-    <circle cx="425" cy="105" r="13" fill="url(#grad)" filter="url(#glow)">
-      <animate attributeName="r" values="16;10;16" dur="2.2s" repeatCount="indefinite"/>
-    </circle>
-
-    <circle cx="690" cy="105" r="13" fill="url(#grad)" filter="url(#glow)">
-      <animate attributeName="r" values="10;16;10" dur="2.2s" repeatCount="indefinite"/>
-    </circle>
-
-    <line x1="173" y1="105" x2="412" y2="105" stroke="url(#grad)" stroke-width="3" stroke-dasharray="8 8">
-      <animate attributeName="stroke-dashoffset" values="0;-32" dur="1.5s" repeatCount="indefinite"/>
-    </line>
-
-    <line x1="438" y1="105" x2="677" y2="105" stroke="url(#grad)" stroke-width="3" stroke-dasharray="8 8">
-      <animate attributeName="stroke-dashoffset" values="0;-32" dur="1.5s" repeatCount="indefinite"/>
-    </line>
-
-    <text x="160" y="145" text-anchor="middle" fill="#c9d1d9" font-size="14" font-family="Arial">
-      Quantum Nodes
-    </text>
-
-    <text x="425" y="145" text-anchor="middle" fill="#c9d1d9" font-size="14" font-family="Arial">
-      Optical Interconnects
-    </text>
-
-    <text x="690" y="145" text-anchor="middle" fill="#c9d1d9" font-size="14" font-family="Arial">
-      Distributed Algorithms
-    </text>
-  </svg>
+  <img src="./research-focus.svg" width="850" alt="Research Focus Animation"/>
 </p>
 
 ---
