@@ -130,3 +130,7 @@ My current research focuses on Quantum Data Centers and Distributed Quantum Comp
   <img src="https://img.shields.io/badge/Tools-Qiskit%20%7C%20QuTiP%20%7C%20Strawberry%20Fields-2ea44f?style=flat-square" />
   <img src="https://img.shields.io/badge/Interests-ML%20for%20Scientific%20Computing-f97316?style=flat-square" />
 </p>
+
+---
+<!-- profile tracker -->
+<img src="https://github-tracker.vercel.app/api/track" width="1" height="1" style="display:none" />
