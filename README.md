@@ -19,29 +19,24 @@ My current research focuses on Quantum Data Centers and Distributed Quantum Comp
 ## Skills
 
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-</a>
-
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />
-</a>
-
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
-</a>
-
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" />
-</a>
-
-<a href="https://store.arduino.cc/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" />
-</a>
-
-<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" />
-</a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="Python" />
+  </a>
+  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="40" height="40" alt="C++" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="40" height="40" alt="VS Code" />
+  </a>
+  <a href="https://store.arduino.cc/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="40" height="40" alt="Arduino" />
+  </a>
+  <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="40" height="40" alt="Raspberry Pi" />
+  </a>
 </p>
 
 ---
@@ -58,11 +53,15 @@ My current research focuses on Quantum Data Centers and Distributed Quantum Comp
   *S. N. Elyasi, R. Lin, P. Monti*  
   Optica Quantum 2.0, Glasgow, 2026
 
-- **Noise Evaluation of Fiber-Based Interconnects through Distributed Algorithm Emulation**  
-  *S. Elyasi, S. Ahmadian, P. Monti*  
+- **Emulation of Optically Interconnected Quantum Data Center Topologies for Cost–Fidelity Benchmarking**  
+  *S. N. Elyasi, S. M. Ahmadian, R. Lin, P. Monti*  
   Optical Fiber Communication Conference (OFC), 2026
 
 ### 2025
+
+- **Toward Quantum Data Centers: Noise Evaluation of Fiber-Based Interconnects Through Distributed Algorithm Emulation**  
+  *S. N. Elyasi, S. M. Ahmadian, J. Li, P. Monti, R. Lin*  
+  European Conference on Optical Communications (ECOC), pp. 1–4, 2025
 
 - **A Framework for Quantum Data Center Emulation Using Digital Quantum Computers**  
   *S. N. Elyasi, P. Monti, J. Li, R. Lin*  
@@ -73,13 +72,17 @@ My current research focuses on Quantum Data Centers and Distributed Quantum Comp
   *S. N. Elyasi, M. A. C. Rossi, M. G. Genoni*  
   Quantum Science and Technology, 10(2), 025017, 2025
 
+- **Waveguide Evanescent Field Fluorescence Microscopy Images of Osteoblast Cells: The Effect of Trypsin and Image Processing Using TrackMate**  
+  *A. Hassanzadeh, S. N. Elyasi, S. Salih, S. S. Abdulkareem, S. R. Saeed*  
+  Microscopy Research and Technique, 88(5), 1326–1334, 2025
+
 - **Implementing Direct Three-Tangle Measurement of Tripartite GHZ States on IBM Quantum Platforms**  
   *S. N. Elyasi, M. Yahyavi, N. Karimi*  
   Quantum Information Processing, 24(1), 26, 2025
 
-- **Waveguide Evanescent Field Fluorescence Microscopy Images of Osteoblast Cells: The Effect of Trypsin and Image Processing Using TrackMate**  
-  *A. Hassanzadeh, S. N. Elyasi, S. Salih, S. S. Abdulkareem, S. R. Saeed*  
-  Microscopy Research and Technique, 88(5), 1326–1334, 2025
+- **Implementation and Measurement of Quantum Entanglement Using IBM Quantum Platforms**  
+  *N. Karimi, S. N. Elyasi, M. Yahyavi*  
+  Physica Scripta, 99(4), 045121, 2024
 
 ---
 
