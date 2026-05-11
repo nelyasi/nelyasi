@@ -116,20 +116,72 @@ My current research focuses on Quantum Data Centers and Distributed Quantum Comp
 ---
 
 
-## GitHub Statistics
+## Research Focus
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nelyasi&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelyasi&layout=compact&theme=github_dark&hide_border=true"/>
+  <svg width="850" height="180" viewBox="0 0 850 180" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#00c6ff"/>
+        <stop offset="100%" stop-color="#7f00ff"/>
+      </linearGradient>
+
+      <filter id="glow">
+        <feGaussianBlur stdDeviation="3.5" result="coloredBlur"/>
+        <feMerge>
+          <feMergeNode in="coloredBlur"/>
+          <feMergeNode in="SourceGraphic"/>
+        </feMerge>
+      </filter>
+    </defs>
+
+    <rect width="850" height="180" rx="20" fill="#0d1117"/>
+
+    <text x="425" y="38" text-anchor="middle" fill="#ffffff" font-size="18" font-family="Arial">
+      Quantum Data Centers · Distributed Quantum Computing · Quantum Networks
+    </text>
+
+    <circle cx="160" cy="105" r="13" fill="url(#grad)" filter="url(#glow)">
+      <animate attributeName="r" values="10;16;10" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="425" cy="105" r="13" fill="url(#grad)" filter="url(#glow)">
+      <animate attributeName="r" values="16;10;16" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="690" cy="105" r="13" fill="url(#grad)" filter="url(#glow)">
+      <animate attributeName="r" values="10;16;10" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+
+    <line x1="173" y1="105" x2="412" y2="105" stroke="url(#grad)" stroke-width="3" stroke-dasharray="8 8">
+      <animate attributeName="stroke-dashoffset" values="0;-32" dur="1.5s" repeatCount="indefinite"/>
+    </line>
+
+    <line x1="438" y1="105" x2="677" y2="105" stroke="url(#grad)" stroke-width="3" stroke-dasharray="8 8">
+      <animate attributeName="stroke-dashoffset" values="0;-32" dur="1.5s" repeatCount="indefinite"/>
+    </line>
+
+    <text x="160" y="145" text-anchor="middle" fill="#c9d1d9" font-size="14" font-family="Arial">
+      Quantum Nodes
+    </text>
+
+    <text x="425" y="145" text-anchor="middle" fill="#c9d1d9" font-size="14" font-family="Arial">
+      Optical Interconnects
+    </text>
+
+    <text x="690" y="145" text-anchor="middle" fill="#c9d1d9" font-size="14" font-family="Arial">
+      Distributed Algorithms
+    </text>
+  </svg>
 </p>
 
 ---
 
-## Featured Repository
+## Technical Profile
 
 <p align="center">
-  <a href="https://github.com/nelyasi/OQB-implementation---Batsim">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nelyasi&repo=OQB-implementation---Batsim&theme=github_dark&hide_border=true" />
-  </a>
+  <img src="https://img.shields.io/badge/Research-Quantum%20Data%20Centers-00c6ff?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Distributed%20Quantum%20Computing-7f00ff?style=flat-square" />
+  <img src="https://img.shields.io/badge/Tools-Qiskit%20%7C%20QuTiP%20%7C%20Strawberry%20Fields-2ea44f?style=flat-square" />
+  <img src="https://img.shields.io/badge/Interests-ML%20for%20Scientific%20Computing-f97316?style=flat-square" />
 </p>
