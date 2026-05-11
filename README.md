@@ -114,8 +114,6 @@ My current research focuses on Quantum Data Centers and Distributed Quantum Comp
 </p>
 
 ---
-
-
 ## Research Focus
 
 <p align="center">
