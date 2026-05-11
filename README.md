@@ -118,10 +118,10 @@ My current research focuses on Quantum Data Centers and Distributed Quantum Comp
 ## Research Focus
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nelyasi/nelyasi/main/research-focus.svg" width="850" alt="Research Focus Animation"/>
+  <img src="https://raw.githubusercontent.com/nelyasi/nelyasi/main/research-focus.svg" width="850"/>
 </p>
----
 
+---
 ## Technical Profile
 
 <p align="center">
