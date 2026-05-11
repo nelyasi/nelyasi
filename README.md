@@ -18,9 +18,13 @@ My current research focuses on Quantum Data Centers and Distributed Quantum Comp
 
 ## Skills
 
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,git,vscode,arduino,raspberrypi" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Quantum%20Simulation-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-Systems%20Programming-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qiskit-Quantum%20Computing-6929C4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/QuTiP-Open%20Quantum%20Systems-00A6D6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Arduino-Embedded%20Systems-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 </p>
 
 
